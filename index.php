@@ -76,7 +76,10 @@
                                         <div class="modal-dialog" role="document">
                                             <div class="modal-content">
                                                 <div class="modal-header">
-                                                    <h2 class="modal-title" id="exampleModalLabel">Delete User<h2 id="first_name"></h2>
+                                                    <h2 class="modal-title" id="exampleModalLabel">Delete
+                                                        <h2 id="first_name" style="margin-top: 10px;"></h2>
+                                                        <h2 id="last_name" style="margin-right: 163px;margin-top: 10px;"></h2>
+                                                    
                                                     </h2>
                                                 </div>
                                                 <form action="delete.php" method="POST">
